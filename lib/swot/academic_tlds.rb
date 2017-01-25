@@ -245,5 +245,6 @@ class Swot
     tec.wi.us
     tec.wv.us
     vic.edu.au
+    gmail.com
   ).to_set.freeze
 end
